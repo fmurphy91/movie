@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-root 'pages#home'
+
   get 'reviews/index'
 
   get 'reviews/show'
